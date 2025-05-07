@@ -1,0 +1,15 @@
+{
+  "name": "wallet-adapter-base-tsc-node16-module-issue",
+  "packageManager": "yarn@4.4.1",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@solana/wallet-adapter-base": "^0.9.26",
+    "@solana/web3.js": "^1.98.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
